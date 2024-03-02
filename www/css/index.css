@@ -1,0 +1,13 @@
+.titulo
+{
+    background-color:red;
+}
+.contenedor
+{
+    background-color: transparent;
+    font-style: italic;
+    font-family: Georgia;
+}
+.contenedor p {
+    background-color: bisque;
+}
